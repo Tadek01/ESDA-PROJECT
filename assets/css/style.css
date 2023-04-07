@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: rgb(196, 247, 247);
+    background-color: blue;
+    background-image: url(./Images/IMG_20220117_215627.jpg);
+    background-repeat: inherit;
+    background-attachment: fixed;
+}
+
+main {
+    justify-content: center;
+    text-align: center;
+    color: blue;
+    border-style: solid;
+    border-color: rgb(16, 1, 1);
+    background-color: white;
+}
+
+.container {
+    justify-content: center;
+    text-align: center;
+    color: #141212;
+
+
+}
+
+.reg-form {
+    background-color: white;
+    width: 30%;
+    margin: 100px auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    border-color: rgb(0, 255, 98);
+    border-style: solid;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+    width: 250px;
+    outline: 0;
+}
+
+button {
+    padding: 8px;
+    border-radius: 10px;
+    width: 40%;
+    border: 0;
+    color: white;
+    margin-top: 5px;
+}
+
+footer{
+    justify-self: center;
+    justify-content: center;
+    text-align: centers;
+}
